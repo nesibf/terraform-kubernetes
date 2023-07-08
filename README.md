@@ -14,4 +14,7 @@ kubectl cluster-info --context kind-terraform-learn
 # Create infrastructure
 terraform init  
 terraform plan  
-terraform apply  
+terraform apply 
+
+
+ 
